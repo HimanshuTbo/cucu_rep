@@ -51,7 +51,7 @@ public class Test {
 	    		      "http://automationpractice.com/index.php?controller=my-account")){
 	    		         System.out.println("Test Pass"); 
 	    		      } else { 
-	    		         System.out.println("Test Failed"); 
+	    		         System.out.println("Test Failed .."); 
 	    		      } 
 	        driver.quit();  
 	    }      
